@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 520" role="img" aria-label="Hockey rink blueprint">
+  <defs>
+    <linearGradient id="rink-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2b45" />
+      <stop offset="0.58" stop-color="#0b2238" />
+      <stop offset="1" stop-color="#0a1b2d" />
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="888" height="488" rx="190" fill="url(#rink-bg)" stroke="#dbeeff" stroke-width="4" />
+  <line x1="460" y1="28" x2="460" y2="492" stroke="#e07474" stroke-width="5" />
+  <line x1="308" y1="28" x2="308" y2="492" stroke="#72afe5" stroke-width="4" />
+  <line x1="612" y1="28" x2="612" y2="492" stroke="#72afe5" stroke-width="4" />
+  <circle cx="460" cy="260" r="66" fill="none" stroke="#edf6ff" stroke-width="3" />
+  <circle cx="230" cy="162" r="40" fill="none" stroke="#edf6ff" stroke-width="2.8" />
+  <circle cx="230" cy="356" r="40" fill="none" stroke="#edf6ff" stroke-width="2.8" />
+  <circle cx="690" cy="162" r="40" fill="none" stroke="#edf6ff" stroke-width="2.8" />
+  <circle cx="690" cy="356" r="40" fill="none" stroke="#edf6ff" stroke-width="2.8" />
+  <path d="M120 408 C230 338 316 292 414 196" fill="none" stroke="#73b4ed" stroke-width="6" stroke-linecap="round" />
+  <path d="M414 196 C504 242 570 298 698 396" fill="none" stroke="#f1f8ff" stroke-width="5" stroke-linecap="round" stroke-dasharray="12 8" />
+  <path d="M736 124 C654 176 600 224 540 328" fill="none" stroke="#e67a7a" stroke-width="5" stroke-linecap="round" />
+</svg>

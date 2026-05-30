@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Hockey rink and puck icon">
+  <rect x="4" y="8" width="56" height="48" rx="20" fill="#0f2841" stroke="#e9f4ff" stroke-width="3" />
+  <line x1="32" y1="10" x2="32" y2="54" stroke="#d95f5f" stroke-width="3" />
+  <line x1="20" y1="10" x2="20" y2="54" stroke="#5da3e3" stroke-width="2.4" />
+  <line x1="44" y1="10" x2="44" y2="54" stroke="#5da3e3" stroke-width="2.4" />
+  <circle cx="32" cy="32" r="6.2" fill="none" stroke="#eaf5ff" stroke-width="2" />
+  <circle cx="23" cy="41" r="4.4" fill="#171717" stroke="#f3f3f3" stroke-width="1.4" />
+  <path d="M21 39 L13 31" stroke="#d95f5f" stroke-width="3" stroke-linecap="round" />
+</svg>

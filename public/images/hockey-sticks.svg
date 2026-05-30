@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" role="img" aria-label="Crossed hockey sticks and puck">
+  <circle cx="240" cy="240" r="220" fill="#0b2238" stroke="#d8ebff" stroke-width="8" />
+  <path d="M126 92 L170 138 L292 260 L242 310 L122 190 L80 146 Z" fill="#dd6b6b" stroke="#f8dddd" stroke-width="4" />
+  <path d="M354 92 L400 138 L282 256 L232 206 L348 90 Z" fill="#4f91d0" stroke="#deeeff" stroke-width="4" />
+  <rect x="130" y="296" width="118" height="54" rx="12" transform="rotate(-45 130 296)" fill="#e17a7a" stroke="#ffeaea" stroke-width="3" />
+  <rect x="236" y="206" width="118" height="54" rx="12" transform="rotate(45 236 206)" fill="#66a9e4" stroke="#e6f3ff" stroke-width="3" />
+  <circle cx="240" cy="318" r="48" fill="#171717" stroke="#f4f7fb" stroke-width="6" />
+  <circle cx="240" cy="318" r="14" fill="#2f2f2f" />
+</svg>
