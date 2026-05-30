@@ -119,16 +119,21 @@ src/
 
 ## Screenshots
 
-Screenshot directory is ready at docs/screenshots.
+### Dashboard
 
-Recommended captures:
+![Dashboard Page](docs/screenshots/dashboard-page.png)
 
-- Dashboard / saved plans
-- Drill library filters
-- Drill detail page
-- Practice builder timeline
-- Smart practice generator
-- Print/export view
+### Drill Library
+
+![Drill Library Page](docs/screenshots/drill-library-page.png)
+
+### Smart Planner
+
+![Smart Planner Page](docs/screenshots/smart-generator-page.png)
+
+### New Practice
+
+![New Practice Page](docs/screenshots/plan-create-page.png)
 
 ## Run Locally
 
